@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS "test_table"
+(
+id BIGINT NOT NULL
+);
+SET TIME ZONE 'UTC';
